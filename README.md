@@ -1,4 +1,4 @@
-# 📚 MGM Library Automation System - Frontend
+# 📚 brabu Library Automation System - Frontend
 
 <div align="center">
 
@@ -90,7 +90,7 @@ npm --version
 
 ```bash
 git clone <repository-url>
-cd mgm-library-automation_system_frontend
+cd brabu-library-automation_system_frontend
 ```
 
 ### 2️⃣ Install Dependencies
@@ -143,7 +143,7 @@ npm run preview
 ## 📂 Project Structure
 
 ```
-mgm-library-automation_system_frontend/
+brabu-library-automation_system_frontend/
 │
 ├── 📄 index.html              # Main HTML file
 ├── 📄 package.json            # Dependencies and scripts
@@ -402,7 +402,7 @@ Install [Redux DevTools Extension](https://github.com/reduxjs/redux-devtools) fo
 
 Have questions? Need help?
 
-- 📧 Email: support@mgmlibrary.com
+- 📧 Email: support@brabulibrary.com
 - 🐛 Report bugs in Issues section
 - 💬 Start a discussion for feature requests
 
@@ -425,11 +425,13 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 <div align="center">
 
-**Made with ❤️ for MGM Library Management System**
+**Made with ❤️ for brabu Library Management System**
 
 ⭐ If this project helps you, please give it a star!
 
 </div>
-#   F r o n t e n d - m a i n  
- #   F r o n t e n d - m a i n  
+#   F r o n t e n d - m a i n 
+ 
+ #   F r o n t e n d - m a i n 
+ 
  
