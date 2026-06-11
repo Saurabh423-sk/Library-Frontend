@@ -37,7 +37,7 @@ setmessage(error)
             Library Entry / Exit
           </h1>
           <p className="text-slate-600 text-sm mt-1">
-            MGM College Library
+            BRABU College Library
           </p>
         </div>
 

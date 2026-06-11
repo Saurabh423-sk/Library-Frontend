@@ -29,7 +29,7 @@ body{overflow-x: hidden;overflow-y: auto;}
 }
 
 .logo{
-  background-image:url("https://www.mgmpatna.com/header_banner/logo1_264.png");
+  background-image:url("../assets/images/reallogo.webp");
   background-size: cover;
   background-repeat: no-repeat;
    background-position: -50px -1px;
